@@ -10,9 +10,9 @@
 [![documentation](https://readthedocs.org/projects/biomovies-documentation/badge/?version=latest)](https://biomovies-documentation.readthedocs.io/en/latest/?badge=latest)
 [![License: GPL](https://img.shields.io/badge/License-GPL_v3.0-green.svg)](https://opensource.org/license/gpl-3-0/)
 
-[![macos](https://img.shields.io/badge/mac%20os-beta-33bbff.svg?&logo=apple)](https://gbayarri.github.io/biomovies/#download)
-[![ubuntu](https://img.shields.io/badge/ubuntu-beta-33bbff.svg?&logo=ubuntu)](https://gbayarri.github.io/biomovies/#download)
-[![windows](https://img.shields.io/badge/windows-beta-33bbff.svg?&logo=windows)](https://gbayarri.github.io/biomovies/#download)
+[![macos](https://img.shields.io/badge/mac%20os-alpha-yellow.svg?&logo=apple)](https://gbayarri.github.io/biomovies/#download)
+[![ubuntu](https://img.shields.io/badge/ubuntu-alpha-yellow.svg?&logo=ubuntu)](https://gbayarri.github.io/biomovies/#download)
+[![windows](https://img.shields.io/badge/windows-alpha-yellow.svg?&logo=windows)](https://gbayarri.github.io/biomovies/#download)
 
 ## Brief description
 
