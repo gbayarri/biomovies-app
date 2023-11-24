@@ -10,9 +10,13 @@
 [![documentation](https://readthedocs.org/projects/biomovies-documentation/badge/?version=latest)](https://biomovies-documentation.readthedocs.io/en/latest/?badge=latest)
 [![License: GPL](https://img.shields.io/badge/License-GPL_v3.0-green.svg)](https://opensource.org/license/gpl-3-0/)
 
+[![macos](https://img.shields.io/badge/mac%20os-beta-33bbff.svg?&logo=apple)](https://gbayarri.github.io/biomovies/#download)
+[![ubuntu](https://img.shields.io/badge/ubuntu-beta-33bbff.svg?&logo=ubuntu)](https://gbayarri.github.io/biomovies/#download)
+[![windows](https://img.shields.io/badge/windows-beta-33bbff.svg?&logo=windows)](https://gbayarri.github.io/biomovies/#download)
+
 ## Brief description
 
-In this repository there are available the **binaries** for **Biomovies**, the **cross-platform** 3D biological structure **video editor**. This cross-platform, open-source software allows the **creation** of **movies** starting from a 3D biological structure file such as a **PDB** or a **MMCIF** file. Additionally, the application **accepts trajectories** coupled with its corresponding topology. The accepted trajectory formats are **NETCDF**, **XTC** and **DCD**.
+In this repository there are available the **binaries** of **Biomovies**, the **cross-platform** 3D biological structure **video editor**. This cross-platform, open-source software allows the **creation** of **movies** starting from a 3D biological structure file such as a **PDB** or a **MMCIF** file. Additionally, the application **accepts trajectories** coupled with its corresponding topology. The accepted trajectory formats are **NETCDF**, **XTC** and **DCD**.
 
 Thanks to its simplicity and the intuitive interface, users can build videos **easily and quickly**. The application allows the creation of **low resolution** and **HD** videos as well as **animated GIF** images.
 
@@ -20,13 +24,7 @@ The projects can be saved into **.biomovies** files for the sake of **sharing** 
 
 This is a **non-profit experimental** software in its **Beta** version, so be aware that some **bugs** can happen during the execution. Please **save** your projects as often as you can and **let us know** if some bug is found.
 
-Visit the [**official website**](https://gbayarri.github.io/biomovies/) for watching demonstration **videos** and **tutorials**.
-
-## Demo
-
-Below there is a video generated with **Biomovies** software. More videos available in the [**website gallery** <i class="fa-solid fa-up-right-from-square" style="font-size: 12px;"></i>](https://gbayarri.github.io/biomovies/#gallery).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-cEe-mtP2VU?si=7cT5b4eUvOxmbubg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="margin-bottom: 30px;"></iframe>
+Visit the [**official website**](https://gbayarri.github.io/biomovies/) for watching demonstration [**videos**](https://gbayarri.github.io/biomovies/#gallery) and [**tutorials**](https://gbayarri.github.io/biomovies/#tutorials).
 
 ## Documentation & help
 
@@ -40,7 +38,7 @@ All the documentation is accessible through [**Read the Docs**](https://biomovie
 
 ## Installation
 
-Please take a look at the [**installation section**](installation.html) in this same documentation.
+Please take a look at the [**installation section**](https://biomovies-documentation.readthedocs.io/en/latest/installation.html) in the documentation.
 
 ## Technology
 
