@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
@@ -17,8 +17,8 @@ Steps to reproduce the behavior:
 A clear and concise description of what you expected to happen.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. ubuntu]
- - biomovies version [e.g. 1.0.0]
+ - OS: [e.g. ubuntu 22.04]
+ - biomovies version [e.g. 0.5.0]
 
 **Additional context**
 Add any other context about the problem here.
